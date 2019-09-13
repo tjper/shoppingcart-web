@@ -1,0 +1,7 @@
+.Shop {
+  width: 90%;
+  display: flex;
+  align-content: flex-start;
+  align-items: flex-start;
+  justify-content: center;
+}
